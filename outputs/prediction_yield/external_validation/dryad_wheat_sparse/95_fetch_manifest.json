@@ -1,0 +1,10 @@
+{
+  "dataset_key": "dryad_wheat_sparse",
+  "doi": "10.5061/dryad.vx0k6dk3p",
+  "downloaded_files": "4",
+  "phenotype_source": "/Users/neon/Documents/Nadim's Brain/analysis/outputs/prediction_yield/external_validation/dryad_wheat_sparse/raw/source_files/dryad_wheat_sparse_365625_extracted/wheat_data.tar_extracted/data/pheno.csv",
+  "marker_source": "/Users/neon/Documents/Nadim's Brain/analysis/outputs/prediction_yield/external_validation/dryad_wheat_sparse/raw/source_files/dryad_wheat_sparse_365625_extracted/wheat_data.tar_extracted/data/geno.csv",
+  "phenotype_status": "copied_csv",
+  "marker_status": "copied_csv",
+  "notes": ""
+}

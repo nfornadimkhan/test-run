@@ -1,0 +1,10 @@
+{
+  "dataset_key": "dryad_rice",
+  "doi": "10.5061/dryad.j9kd51ctd",
+  "downloaded_files": "3",
+  "phenotype_source": "/Users/neon/Documents/Nadim's Brain/analysis/outputs/prediction_yield/external_validation/dryad_rice/raw/source_files/dryad_rice_430983_extracted/Filtered_phenotypes_RiceCAPAmp-accessible.csv",
+  "marker_source": "/Users/neon/Documents/Nadim's Brain/analysis/outputs/prediction_yield/external_validation/dryad_rice/raw/source_files/dryad_rice_430983_extracted/RiceCAP_named_Sorted.hmp.txt",
+  "phenotype_status": "copied_csv",
+  "marker_status": "converted_tab",
+  "notes": ""
+}

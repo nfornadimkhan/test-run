@@ -1,0 +1,16 @@
+# Data files
+*.csv
+*.gz
+*.zip
+*.tar
+*.dat
+*.rds
+*.rda
+*.RData
+
+# Caches
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

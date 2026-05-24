@@ -1,0 +1,10 @@
+{
+  "dataset_key": "dryad_maize_met",
+  "doi": "10.5061/dryad.9w0vt4bc2",
+  "downloaded_files": "2",
+  "phenotype_source": "/Users/neon/Documents/Nadim's Brain/analysis/outputs/prediction_yield/external_validation/dryad_maize_met/raw/source_files/dryad_maize_met_64567_extracted/BLUEs.txt",
+  "marker_source": "/Users/neon/Documents/Nadim's Brain/analysis/outputs/prediction_yield/external_validation/dryad_maize_met/raw/source_files/dryad_maize_met_64567_extracted/Hinv.RData",
+  "phenotype_status": "converted_tab",
+  "marker_status": "failed:unsupported_extension:.RData",
+  "notes": "markers.csv unresolved"
+}
